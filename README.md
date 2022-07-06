@@ -8,6 +8,7 @@ It allows the admins to
 3. Issue books to students
 
 It allows the students to 
-1. View the existing books
+1. View their own account
+2. View the existing books
 
 Used HTML, CSS and Javascript for front end, PHP for backend and SQL for database
