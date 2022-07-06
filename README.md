@@ -12,6 +12,4 @@ It allows the students to
 2. Add new books and view the existing ones
 3. Issue books to students
 
-Used HTML, CSS and Javascript for front end
-PHP for backend
-SQL for database
+Used HTML, CSS and Javascript for front end, PHP for backend and SQL for database
